@@ -1,6 +1,6 @@
 ---
 applications:
-- name: docs-oss
+- name: marks-bookbinder
   buildpack: ruby_buildpack
   domain: cfapps.io
   host: docs-oss-pre-release2
