@@ -8,7 +8,7 @@ broken_link_exclusions: iefix|arrowhead|#
 repo_link_enabled: true
 elastic_search: true
 
-public_host: docs.cloudfoundry.org
+public_host: marks-book.cfapps.io
 
 sections:
 - repository:
