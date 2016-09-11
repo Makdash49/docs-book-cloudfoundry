@@ -3,7 +3,7 @@ applications:
 - name: marks-bookbinder
   buildpack: ruby_buildpack
   domain: cfapps.io
-  host: docs-oss-pre-release2
+  host: marks-book
   instances: 3
   memory: 256M
   path: final_app
