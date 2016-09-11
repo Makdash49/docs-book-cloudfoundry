@@ -1,7 +1,7 @@
 ---
-book_repo: Makdash49/docs-book-cloudfoundry
+book_repo: cloudfoundry/docs-book-cloudfoundry
 cred_repo: Makdash49/Bookbinder1
-layout_repo: Makdash49/docs-layout-repo
+layout_repo: cloudfoundry/docs-layout-repo
 
 
 broken_link_exclusions: iefix|arrowhead|#
